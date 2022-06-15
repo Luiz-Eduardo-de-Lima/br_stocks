@@ -1,1 +1,1 @@
-# br_stocks
+# Análise de ações brasileiras.
